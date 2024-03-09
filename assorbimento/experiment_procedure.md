@@ -13,4 +13,4 @@ Da cui abbiamo ricavato che $C_{\text{stock}} = \frac{AV_D}{\varepsilon L V_S} =
 2) Fare spettro soluzione rodamina (forse bisogna usare i dati dell'altra volta)
 3) Inserire pastiglie di agarosio all'interno della soluzione di rodamina e aspettare 5 min
 4) Estrarre un campione e fare assorbimento, rimetteri il campione nella soluzione e ripetere ogni 5 min per 30 min
-5) Dopo trenta minuti variare la frequenza di acquisizione ad una ogni 10 min per un ora
+5) Dopo trenta minuti variare la frequenza di acquisizione ad una ogni 10 min per un'ora
