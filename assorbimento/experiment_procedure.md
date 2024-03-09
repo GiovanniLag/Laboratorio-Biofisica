@@ -5,7 +5,7 @@
 - $A_{526} = 0.7851$
 - $A_{\text{fondo}}=0.06919$
 - $A = A_{526} - A_{\text{fondo}} = 0.7159$
-Da cui abbiamo ricavato che $C_{\text{stock}} = \frac{AV_D}{\varepsilon L V_S} = 5.16x10^{-5}M^{-1}
+Da cui abbiamo ricavato che $C_{\text{stock}} = \frac{AV_D}{\varepsilon L V_S} = 5.16x10^{-5}M^{-1}$
 (usando $L = 1cm$ e dove $V_D$ è il volume diluito e $V_s$ è il volume dello stcok)
 
 ## Procedura
