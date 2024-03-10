@@ -16,15 +16,6 @@ Da cui abbiamo ricavato che $C_{\text{stock}} = \frac{AV_D}{\varepsilon L V_S} =
 5) Dopo trenta minuti variare la frequenza di acquisizione ad una ogni 10 min per un'ora
 
 
-## Strumentazione e Setup (è necessaria come sezione(?) - WORK IN PROGRESS)
-Per studiare la cinetica di ingresso della soluzione con rodamina in una pastiglia di gel di agarosio il campione è stato inserito all'interno di un apposito spettrofotometro, strumento necessario per poter misurare lo spettro di assorbimento del campione. 
-Il modello utilizzato è il (##??##) che opera nella regione del visibile, nello specifico tra i 400 e i 650 nm.
-Lo spettrofotometro generalmente opera in due modalità:  modalità trasmissione o modalità assorbimento.
-In modalità trasmissione, la luce emessa dalla fonte viene fatta passare attraverso il campione e il detector misura l'intensità della luce trasmessa attraverso il campione.
-In modalità assorbimento, la luce viene fatta passare attraverso il campione e il detector misura l'intensità della luce assorbita dal campione. Quest'ultima modalità è quella che è stata impiegata.
-Uno schema riassuntivo è presente in FIg# (trovare uno schema ottico diverso da quello presente sulla slide)
-Lo strumento è formato da una SORGENTE (lampada a tungsteno), da un MONOCROMATORE (reticolo di diffrazione, disperde la radiazione luminosa (lambda spazialmente separate)) -il monocromatore ruota e seleziona una certa lunghezza d'onda(...) utile al campionamento sulla cuvetta)- BEAM SPLITTER?(separazione luce in due cammini ottici) - DETECTOR (fototubo?)- computer (conversione tra radiazione trasmessa e assorbanza--> a dare l'andamento dell'assorbanza in funzione delle lunghezze d'onda)
-+ COMPARTO CELLE (2 siti)
-(devo completare e scrivere meglio)
+
 
 
