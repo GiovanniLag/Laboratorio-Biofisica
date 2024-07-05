@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b65b847a5b862b99",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6dc11ada1ee022f0",
+  "active": "b65b847a5b862b99",
   "lastOpenFiles": [
     "assorbimento/analysis/results/DEC45000",
     "assorbimento/analysis/results/8AB45000",
